@@ -1,6 +1,3 @@
-# rag-first
-hackathon rag app
-
 # 🍕 Pizza Review RAG Demo
 
 This is a simple Retrieval-Augmented Generation (RAG) demo using LangChain + Ollama locally.
